@@ -1,5 +1,5 @@
-def sumadd(a,b):
-    return a*b
+def sumadd(a,b,c):
+    return a*b*c
 
 def subtraction(a,b,c,d):
     return a-b-c-d
